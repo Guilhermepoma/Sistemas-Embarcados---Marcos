@@ -14,7 +14,6 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
   bool botaoA = digitalRead(pin_botao1);
   bool botaoB = digitalRead(pin_botao2);
 
